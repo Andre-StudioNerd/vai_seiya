@@ -1,0 +1,47 @@
+{
+  "fases": [
+    {
+    "fase": 1,
+    "velocidadeMob": 2,
+    "pontuacaoMax": 500
+    },
+    {
+    "fase": 2,
+    "velocidadeMob": 2.3,
+    "pontuacaoMax": 1000
+    },
+    {
+    "fase": 3,
+    "velocidadeMob": 2.3,
+    "pontuacaoMax": 1500
+    },
+    {
+    "fase": 4,
+    "velocidadeMob": 3,
+    "pontuacaoMax": 2000
+    }
+  ],
+  "configuracao": {
+    "vidaMaxima": 7,
+    "vidaInicial": 5,
+    "limiteCristais": 5
+  },
+  "mapa": [
+    {
+      "inimigo":  0,
+      "velocidade": 10
+    },
+    {
+      "inimigo":  1,
+      "velocidade": 30
+    },
+    {
+      "inimigo":  1,
+      "velocidade": 15
+    },
+    {
+      "inimigo":  2,
+      "velocidade": 40
+    }
+  ]
+}
